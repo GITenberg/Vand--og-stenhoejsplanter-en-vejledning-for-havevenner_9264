@@ -1,0 +1,25 @@
+_repo: Vand--og-stenhoejsplanter-en-vejledning-for-havevenner_9264
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Brandt, G. N. (Gudmund Nyeland)
+    alias: Brandt, Gudmund Nyeland
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '3387'
+    url: http://www.gutenberg.org/2009/agents/3387
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9264'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aquatic plants'
+- !lcc 'QK'
+- GITenberg
+title: Vand- og stenhoejsplanter en vejledning for havevenner
+url: http://www.gutenberg.org/ebooks/9264
