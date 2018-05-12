@@ -1,5 +1,8 @@
 _repo: Vand--og-stenhoejsplanter-en-vejledning-for-havevenner_9264
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Brandt, G. N. (Gudmund Nyeland)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3387'
     url: http://www.gutenberg.org/2009/agents/3387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9264#Vand--og-stenhoejsplanter-en-vejledning-for-havevenner
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
